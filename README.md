@@ -1,1 +1,2 @@
-# brach
+# Belajargithub
+kita akan mempelajari cara penggunaan github
